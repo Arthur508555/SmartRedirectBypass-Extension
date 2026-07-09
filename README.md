@@ -35,4 +35,27 @@ The extension will automatically process the information and redirect you to the
 - Compatibility depends on how the target website implements its KeySystem and anti-bypass protections.
 
 Tutorial on how to use the extension: https://streamable.com/om82ut (https://streamable.com/om82ut)
-Tutorial for installing the extension: https://streamable.com/to5r0w (https://streamable.com/to5r0w)
+
+# Installation
+
+Follow the installation guide below.
+
+## Video Tutorial
+
+This video demonstrates how to:
+
+- Download the project.
+- Load the extension in Google Chrome or Microsoft Edge.
+- Configure the extension.
+- Complete the initial setup.
+
+▶️ https://streamable.com/to5r0w (https://streamable.com/to5r0w)
+
+## Written Guide
+
+1. Download or clone this repository.
+2. Open your browser's extensions page.
+3. Enable **Developer mode**.
+4. Click **Load unpacked**.
+5. Select the extension folder.
+6. Follow the configuration steps described below.
