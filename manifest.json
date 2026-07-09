@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Work.ink Redirect Bypass",
+  "version": "1.0.0",
+  "description": "Redirecionador inteligente para bypass de keysystems - evita blacklist e anti-bypass simulando fluxo legítimo",
+  "permissions": [
+    "storage",
+    "webRequest",
+    "declarativeNetRequest",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://*.work.ink/*",
+    "*://*.workink.click/*",
+    "*://redirect-api.work.ink/*",
+    "*://*.lootlabs.com/*",
+    "*://*.linkvertise.com/*",
+    "*://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon128.png",
+    "default_title": "Work.ink Redirect Bypass"
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+}
