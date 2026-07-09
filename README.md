@@ -58,4 +58,4 @@ This video demonstrates how to:
 3. Enable **Developer mode**.
 4. Click **Load unpacked**.
 5. Select the extension folder.
-6. Follow the configuration steps described below.
+6. Go to the extension and make sure it is selected.
