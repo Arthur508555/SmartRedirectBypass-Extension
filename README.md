@@ -33,3 +33,6 @@ The extension will automatically process the information and redirect you to the
 - Not every website or KeySystem is vulnerable to this method.
 - Some websites include additional security checks and may still detect or block the bypass.
 - Compatibility depends on how the target website implements its KeySystem and anti-bypass protections.
+
+Tutorial on how to use the extension: https://streamable.com/om82ut (https://streamable.com/om82ut)
+Tutorial for installing the extension: https://streamable.com/to5r0w (https://streamable.com/to5r0w)
